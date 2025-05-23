@@ -1,5 +1,4 @@
 # Connect-MySQL-database-to-Python
-# Connect MySQL database to Python.
 
 In this section, I'll explain how you can connect your MySQL database to Python and query it.
 To connect MySQL with Python, you will need to have both [MySQL](https://dev.mysql.com/downloads/) and [Python](https://www.python.org/downloads/) installed on your system.
